@@ -1,0 +1,53 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+  box-sizing: border-box;
+}
+.container{
+  width:70%;
+  padding:20px;
+  
+}
+input{
+  width:100%;
+  padding:10px;
+  background-color: #dddde9;
+  margin-top:10px;
+  margin-bottom:10px;
+  border: none;
+}
+input:focus{
+  background-color: #c7c7d6;
+  border: none;
+}
+
+a{
+  color: #2c3ec9;
+}
+.registerbtn{
+  width: 100%;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 7px;
+  background-color: #c7c7d6;
+  
+}
+.popup_content{
+  width:326px;
+  height:488px;
+  background: white;
+  box-shadow:4px 4px 70px 10px;
+  border-radius:25px;
+}
+.imgbox{
+  text-align: center;
+}
+.div class{
+  width:100%;
+  padding:10px;
+  background-color: #dddde9;
+  margin-top:10px;
+  margin-bottom:10px;
+}
